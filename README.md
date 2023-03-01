@@ -5,7 +5,7 @@
 
 # Compliled contracts:
 ## KaseiCoin contract:
-![image](Images/Compiled_kasei_coin.png)
+![image](Images/Compiled_Kasei_coin.png)
 
 ## Crowdsale contract:
 ![image](Images/Compiled_Crowdsale.png)
@@ -13,7 +13,7 @@
 ---
 # Deployed contracts:
 ## Crowdsale:
-![image](Images/deployed_crowdsale.png)
+![image](Images/Deployed_crowdsale.png)
 
 ## KaseiCoin:
 ![image](Images/Deployed_contracts.png)
